@@ -4,7 +4,3 @@
 <echo>Hello World - Welcome to Ant integration</echo>
 </target>
 </project>
-
-> Create a new Freestyle project in Jenkins
-> SCM > Git > HTTPS REPO URL - https://github.com/abhijithvg/freestyle-java-feb24.git
-  > Branch specifier > */main
